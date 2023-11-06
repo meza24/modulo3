@@ -1,0 +1,11 @@
+# Archivos generados automáticamente
+*.pyc
+__pycache__/
+
+# Entorno virtual
+env/
+
+# Archivos de configuración locales
+.vscode/
+.idea/
+config.ini
